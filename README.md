@@ -5,6 +5,8 @@ Bow Keeps Sheathed 3.1 | Wall Run Keeps Sheathed 1.3 | Tested in game on 2026-11
 
 > Unofficial fan-made modification, not affiliated with or endorsed by CAPCOM Co., Ltd. No Capcom game files or assets are included; a legitimate copy of the game is required.
 
+Published on Nexus Mods as "Katana Stays Sheathed - Bow and Wall Run": <https://www.nexusmods.com/onimushawayofthesword/mods/401>
+
 ## The problem
 
 Lowering the bow puts Musashi into the katana stance and plays a draw animation, even if the sword was sheathed before he raised the bow. A wall run draws it as well. If you like to walk around with the sword sheathed, you have to sheathe it again every time.
