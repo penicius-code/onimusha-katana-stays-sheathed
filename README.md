@@ -3,6 +3,8 @@
 Two scripts that keep the katana in its sheath after using the bow and during wall runs, for Onimusha: Way of the Sword. Single-player only.
 Bow Keeps Sheathed 3.1 | Wall Run Keeps Sheathed 1.3 | Tested in game on 2026-11-13 and 2026-11-15 (see Status) | Status: working
 
+**Download:** [latest release](https://github.com/penicius-code/onimusha-katana-stays-sheathed/releases/latest) (zip; install steps below), or [Nexus Mods](https://www.nexusmods.com/onimushawayofthesword/mods/401)
+
 > Unofficial fan-made modification, not affiliated with or endorsed by CAPCOM Co., Ltd. No Capcom game files or assets are included; a legitimate copy of the game is required.
 
 Published on Nexus Mods as "Katana Stays Sheathed - Bow and Wall Run": <https://www.nexusmods.com/onimushawayofthesword/mods/401>
@@ -50,7 +52,7 @@ REFramework is not bundled. Install it first from its own page.
 ## Install
 
 1. Install REFramework for the game.
-2. Copy the `reframework` folder from `package/` into the game folder, so that `reframework\autorun\bow_keeps_sheathed.lua` exists. Copy only one of the two scripts if you want only one.
+2. Download the zip from the [latest release](https://github.com/penicius-code/onimusha-katana-stays-sheathed/releases/latest) (the same files as `package/` in this repository) and extract it into the game folder, so that `reframework\autorun\bow_keeps_sheathed.lua` exists. Copy only one of the two scripts if you want only one.
 3. Start the game. Open the REFramework menu (Insert) and look under "Script Generated UI": each script has its own entry with an "Enabled" box.
 
 ## Uninstall / roll back
